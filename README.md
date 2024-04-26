@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 # Moduł JavaScript
 ## Lekcja 3
 ### Zadanie 4 - poziom podstawowy 
